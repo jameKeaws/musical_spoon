@@ -8,6 +8,7 @@ Orc
 Summer Elf
 Green Elf
 Blue Elf
+Winter Elf
 Black Zombie
 Black Zombie Warlord
 Blue Dragon
