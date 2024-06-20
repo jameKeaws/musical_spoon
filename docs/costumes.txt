@@ -4,3 +4,12 @@ Blue Mermaid
 Gorgon
 Orc
 Green Elf
+Blue Elf
+Black Zombie
+Black Zombie Warlord
+Blue Dragon
+Red Dragon
+White Dragon
+Orange Dragon
+Copper Dragon
+Lightning Dragon
