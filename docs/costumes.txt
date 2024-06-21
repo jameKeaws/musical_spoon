@@ -19,10 +19,14 @@ Orange Dragon
 Copper Dragon
 Lightning Dragon
 Black Dragon
-Brown Scarecrow
-Metal Tinman
-Blue Merfolk
-Green Merfolk
-Red Goblin
-This is the bug
-Added something here
+Red Vampire
+Black Vampire
+Green Saproling
+White Unicorn
+White Tiger
+Blue Lion
+White Seagull
+Green Seahorse
+Black Bat
+Black Horse
+Red Horse
