@@ -13,5 +13,5 @@ long tissue
 cereals
 almond milk
 cheese
-coffee
-Cheese
+bacon
+eggs
