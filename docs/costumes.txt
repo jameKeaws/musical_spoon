@@ -26,3 +26,4 @@ Green Merfolk
 Red Goblin
 Main Character dressed up as Minsc
 Simple Wizard
+Main Barbarian
