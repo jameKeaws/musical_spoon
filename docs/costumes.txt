@@ -4,7 +4,7 @@ Green Mermaid with Pirate Hat
 Blue Mermaid with Tiara
 Gold Mermaid holding Sword
 Gorgon
-Orc
+Orc with Dagger
 Black Drow with Bow
 Summer Elf with Gold Spear
 Green Elf with Bow and Arrow
@@ -24,5 +24,3 @@ Metal Tinman
 Blue Merfolk
 Green Merfolk
 Red Goblin
-This is the bug
-Added something here
