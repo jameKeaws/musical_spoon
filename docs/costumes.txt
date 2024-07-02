@@ -30,4 +30,4 @@ Main Barbarian One
 Another costume
 Merge Branch Costume
 main branch changes one
-main branch changes two
+main branch changes two text conflict two
