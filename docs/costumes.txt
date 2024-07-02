@@ -29,3 +29,4 @@ Simple Wizard
 Main Barbarian
 Another costume
 Merge Branch Costume
+mergeconflicts changes
