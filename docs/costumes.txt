@@ -1,7 +1,7 @@
 The Costumes
 
-Green Mermaid with Pirate Hat
-Blue Mermaid with Tiara
+Green Mermaid with Pirate Hat in mergeconflicts
+Blue Mermaid with Tiara in mergeconflicts
 Gold Mermaid holding Sword
 Gorgon
 Orc with Dagger
